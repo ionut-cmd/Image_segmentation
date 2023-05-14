@@ -40,6 +40,7 @@ The [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7
 
 ## For the UNet3+ implementation, please cite the following paper:
 
+```bibtex
 @misc{huang2020unet,
 title={UNet 3+: A Full-Scale Connected UNet for Medical Image Segmentation},
 author={Huimin Huang and Lanfen Lin and Ruofeng Tong and Hongjie Hu and Qiaowei Zhang and Yutaro Iwamoto and Xianhua Han and Yen-Wei Chen and Jian Wu},
@@ -48,6 +49,7 @@ eprint={2004.08790},
 archivePrefix={arXiv},
 primaryClass={eess.IV}
 }
+```
 
 ## License
 
