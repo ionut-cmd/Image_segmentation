@@ -53,4 +53,4 @@ primaryClass={eess.IV}
 
 ## License
 
-This project is licensed under the [MIT License](LICENCE).
+This project is licensed under the [MIT License](LICENSE).
